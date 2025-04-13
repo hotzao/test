@@ -1,0 +1,27 @@
+{
+  "MenuKey": 45,
+  "TriggerBot": {
+    "Enabled": true,
+    "OnKey": true,
+    "FriendlyFire": false,
+    "ShotDelay": 0,
+    "DelayBetweenShots": 95,
+    "Key": 18
+  },
+  "Esp": {
+    "Box": false,
+    "Bones": true,
+    "FriendlyFire": false
+  },
+  "Aimbot": {
+    "Enabled": true,
+    "OnKey": true,
+    "ControlRecoil": true,
+    "DrawFOV": true,
+    "FriendlyFire": false,
+    "Key": 18,
+    "Bone": "head",
+    "Smooth": 0.0,
+    "Fov": 100.42215
+  }
+}
